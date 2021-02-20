@@ -1,2 +1,2 @@
-# skylark-widgets-forms
-The skylark form widgets library.
+# skylark-widgets-toolbars
+The skylark toolbar widgets library.
