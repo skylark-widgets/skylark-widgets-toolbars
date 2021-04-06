@@ -1,7 +1,7 @@
 define([
   "skylark-langx/langx",
   "skylark-domx-query",
-  "skylark-domx-panels/Toolbar",
+  "skylark-domx-plugins-panels/Toolbar",
   "skylark-widgets-base/Widget",
   "./toolbars",
   "./ToolbarItem"
